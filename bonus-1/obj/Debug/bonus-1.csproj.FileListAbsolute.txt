@@ -1,0 +1,7 @@
+C:\Users\Luke\Desktop\gc\Labs\bonus-1\bonus-1\bin\Debug\bonus-1.exe.config
+C:\Users\Luke\Desktop\gc\Labs\bonus-1\bonus-1\bin\Debug\bonus-1.exe
+C:\Users\Luke\Desktop\gc\Labs\bonus-1\bonus-1\bin\Debug\bonus-1.pdb
+C:\Users\Luke\Desktop\gc\Labs\bonus-1\bonus-1\obj\Debug\bonus-1.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\gc\Labs\bonus-1\bonus-1\obj\Debug\bonus-1.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\gc\Labs\bonus-1\bonus-1\obj\Debug\bonus-1.exe
+C:\Users\Luke\Desktop\gc\Labs\bonus-1\bonus-1\obj\Debug\bonus-1.pdb
